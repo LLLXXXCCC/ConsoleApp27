@@ -1,0 +1,11 @@
+C:\Users\linche\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp3.0\ConsoleApp27.csprojAssemblyReference.cache
+C:\Users\linche\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp3.0\ConsoleApp27.AssemblyInfoInputs.cache
+C:\Users\linche\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp3.0\ConsoleApp27.AssemblyInfo.cs
+C:\Users\linche\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\netcoreapp3.0\ConsoleApp27.exe
+C:\Users\linche\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\netcoreapp3.0\ConsoleApp27.deps.json
+C:\Users\linche\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\netcoreapp3.0\ConsoleApp27.runtimeconfig.json
+C:\Users\linche\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\netcoreapp3.0\ConsoleApp27.runtimeconfig.dev.json
+C:\Users\linche\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\netcoreapp3.0\ConsoleApp27.dll
+C:\Users\linche\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\netcoreapp3.0\ConsoleApp27.pdb
+C:\Users\linche\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp3.0\ConsoleApp27.dll
+C:\Users\linche\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp3.0\ConsoleApp27.pdb
